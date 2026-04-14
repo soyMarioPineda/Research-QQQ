@@ -1,0 +1,42 @@
+variable,segmento,n,pct_continuacion,pct_falla,pct_neutro,mfe_post_avg,cont_ratio_avg
+or_size_pct (quintiles),Q1_mini,209,29.2,27.8,43.1,0.2826,1.132
+or_size_pct (quintiles),Q2_peq,209,37.3,21.1,41.6,0.3234,1.148
+or_size_pct (quintiles),Q3_med,209,49.8,16.3,34.0,0.3381,1.1872
+or_size_pct (quintiles),Q4_gde,209,55.5,13.9,30.6,0.3795,1.2007
+or_size_pct (quintiles),Q5_eno,209,58.9,14.4,26.8,0.4242,1.2572
+or_close_position,bajo(<0.33),359,50.4,18.9,30.6,0.3434,1.187
+or_close_position,medio(0.33-0.67),286,40.9,23.8,35.3,0.3604,1.1982
+or_close_position,alto(>0.67),393,45.3,15.0,39.7,0.3763,1.1984
+breakout_minute,0-15min,327,48.3,17.4,34.3,0.3526,1.189
+breakout_minute,15-30min,567,45.5,21.5,33.0,0.3696,1.2037
+breakout_minute,30-60min,125,44.8,12.0,43.2,0.3493,1.1693
+breakout_minute,60-90min,18,44.4,5.6,50.0,0.3049,1.1938
+vol_ratio (quintiles),Q1,209,35.4,17.2,47.4,0.3387,1.1685
+vol_ratio (quintiles),Q2,209,45.0,21.1,34.0,0.3563,1.2022
+vol_ratio (quintiles),Q3,209,56.9,14.4,28.7,0.3694,1.1908
+vol_ratio (quintiles),Q4,211,46.4,19.0,34.6,0.3685,1.2016
+vol_ratio (quintiles),Q5,207,46.9,21.7,31.4,0.3628,1.2068
+breakout_strength (quintiles),Q1,209,48.3,17.2,34.4,0.3368,1.1995
+breakout_strength (quintiles),Q2,209,46.9,11.5,41.6,0.3684,1.2119
+breakout_strength (quintiles),Q3,209,52.2,15.8,32.1,0.3628,1.1977
+breakout_strength (quintiles),Q4,209,44.0,22.0,34.0,0.3475,1.1907
+breakout_strength (quintiles),Q5,209,39.2,26.8,34.0,0.3925,1.1704
+mfe_pre_retest_pct,0.30-0.40,559,54.7,17.7,27.5,0.29,1.2194
+mfe_pre_retest_pct,0.40-0.50,242,46.3,18.6,35.1,0.4006,1.1576
+mfe_pre_retest_pct,0.50-0.75,103,34.0,19.4,46.6,0.5154,1.1693
+mfe_pre_retest_pct,0.75-1.00,93,22.6,20.4,57.0,0.6742,1.1276
+mfe_pre_retest_pct,>1.00,47,17.0,25.5,57.4,1.0023,1.0757
+mins_to_retest,0-10min,238,68.1,20.2,11.8,0.344,1.2777
+mins_to_retest,10-20min,218,52.3,23.9,23.9,0.3689,1.1732
+mins_to_retest,20-30min,130,45.4,21.5,33.1,0.3756,1.1957
+mins_to_retest,30-45min,144,40.3,15.3,44.4,0.3526,1.1185
+mins_to_retest,45-60min,94,33.0,24.5,42.6,0.3844,1.1324
+mins_to_retest,>60min,221,26.2,10.0,63.8,0.3708,1.116
+retest_depth_pct,superficial,349,39.8,16.3,43.8,0.3143,1.1486
+retest_depth_pct,medio,348,49.1,14.4,36.5,0.3787,1.1955
+retest_depth_pct,profundo,348,49.4,25.3,25.3,0.3801,1.232
+dia_semana,Friday,216,47.2,19.9,32.9,0.3584,1.188
+dia_semana,Monday,175,42.9,19.4,37.7,0.3744,1.1935
+dia_semana,Thursday,228,49.1,19.7,31.1,0.3566,1.1772
+dia_semana,Tuesday,212,46.7,17.0,36.3,0.3654,1.1901
+dia_semana,Wednesday,214,43.9,17.3,38.8,0.3518,1.2303

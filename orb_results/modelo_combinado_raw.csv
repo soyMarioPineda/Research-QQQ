@@ -1,0 +1,64 @@
+condiciones,n_condiciones,n,pct_continuacion,pct_falla,pct_neutro,mfe_post_avg,mfe_post_med,cont_ratio_avg,mae_falla_avg,mins_cont_avg,or_duration_min
+OR_grande(top40%) + Retest<=10min + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,5,107,75.7,17.8,6.5,0.3856,0.3421,1.3685,1.0027,12.2,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60,4,154,74.7,13.0,12.3,0.4309,0.4061,1.2125,1.0591,14.4,todos
+Retest<=10min + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,4,161,73.9,17.4,8.7,0.3554,0.3156,1.3149,0.8297,13.2,todos
+OR_grande(top40%) + Retest<=10min + VolRatio_p40-p60,3,589,73.2,7.6,19.2,0.3496,0.3344,1.2418,1.1287,12.9,todos
+OR_grande(top40%) + Retest<=10min + VolRatio_p40-p60 + Sesgo_alineado,4,391,73.1,6.9,19.9,0.3459,0.3226,1.2495,1.2624,13.0,todos
+Retest<=10min + VolRatio_p40-p60 + Sesgo_alineado,3,507,72.2,7.7,20.1,0.3333,0.3064,1.2375,1.0428,13.8,todos
+Retest<=10min + VolRatio_p40-p60,2,810,72.0,8.9,19.1,0.3389,0.3166,1.2322,0.8924,13.7,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Sesgo_alineado,5,96,71.9,11.5,16.7,0.4379,0.4024,1.2376,1.0747,14.8,todos
+Retest<=10min + VolRatio_p40-p60 + Break<=30min,3,249,71.5,20.1,8.4,0.3616,0.3238,1.3094,0.7754,13.1,todos
+OR_grande(top40%) + Retest<=10min + VolRatio_p40-p60 + Break<=30min,4,160,71.2,20.0,8.8,0.3869,0.3436,1.3725,0.9646,11.8,todos
+Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60,3,196,70.9,12.8,16.3,0.4301,0.4103,1.2208,0.9259,14.9,todos
+OR_grande(top40%) + Retest<=10min + Sesgo_alineado,3,1447,69.7,8.9,21.4,0.3552,0.3193,1.2667,1.1443,12.3,todos
+OR_grande(top40%) + Retest<=10min,2,2256,69.3,10.2,20.6,0.3782,0.3298,1.299,1.0462,12.1,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5%,3,617,69.2,15.4,15.4,0.4305,0.4103,1.1982,1.0543,13.7,todos
+Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Sesgo_alineado,4,112,68.8,11.6,19.6,0.436,0.4024,1.2387,0.977,15.4,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + Sesgo_alineado,4,367,68.1,13.4,18.5,0.4374,0.4107,1.2258,1.0503,15.1,todos
+OR_grande(top40%) + Retest<=10min + Break<=30min + Sesgo_alineado,4,462,68.0,19.5,12.6,0.3818,0.3396,1.3,0.9307,11.4,todos
+Retest<=10min + Sesgo_alineado,2,2090,67.7,10.4,21.9,0.3361,0.3001,1.2447,0.8854,13.5,todos
+Retest<=10min + Break<=30min + Sesgo_alineado,3,697,65.9,22.2,11.9,0.3534,0.3115,1.2643,0.7184,12.1,todos
+Retest<=10min + MFE_pre_0.3-0.5% + Sesgo_alineado,3,450,65.8,14.0,20.2,0.4313,0.4019,1.2237,0.9319,15.2,todos
+Retest<=10min,1,3587,65.8,12.5,21.7,0.3514,0.3094,1.2636,0.799,13.6,todos
+OR_grande(top40%) + Retest<=10min + Break<=30min,3,686,65.7,22.6,11.7,0.3836,0.3418,1.3067,0.8663,11.2,todos
+Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min,4,63,65.1,31.7,3.2,0.4704,0.4198,1.311,0.9209,18.8,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,6,31,64.5,32.3,3.2,0.5089,0.4777,1.4228,0.9986,16.8,todos
+Retest<=10min + MFE_pre_0.3-0.5%,2,877,64.3,17.0,18.7,0.4216,0.398,1.1957,0.8622,13.7,todos
+Retest<=10min + Break<=30min,2,1099,63.4,25.1,11.5,0.3549,0.3171,1.269,0.6682,12.1,todos
+Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,5,38,63.2,31.6,5.3,0.4888,0.4368,1.3754,0.9055,19.4,todos
+OR_grande(top40%) + VolRatio_p40-p60 + Break<=30min,3,391,62.9,16.6,20.5,0.3952,0.3431,1.2633,0.8217,14.3,todos
+OR_grande(top40%) + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,4,300,62.7,14.0,23.3,0.3894,0.336,1.2537,0.8541,15.0,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + Break<=30min + Sesgo_alineado,5,133,62.4,21.8,15.8,0.4713,0.4477,1.2816,0.946,14.5,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min,5,47,61.7,36.2,2.1,0.4901,0.4503,1.3574,1.0118,15.0,todos
+OR_grande(top40%) + Retest<=10min + MFE_pre_0.3-0.5% + Break<=30min,4,206,61.7,26.2,12.1,0.4635,0.4477,1.247,0.9135,14.2,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min,4,122,60.7,21.3,18.0,0.4538,0.4174,1.2264,0.8768,17.8,todos
+OR_grande(top40%) + VolRatio_p40-p60,2,1974,59.7,5.3,35.1,0.3704,0.3424,1.1919,1.1119,17.9,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + VolRatio_p40-p60,3,670,59.3,4.8,36.0,0.4278,0.4083,1.1629,0.9505,20.3,todos
+OR_grande(top40%) + VolRatio_p40-p60 + Sesgo_alineado,3,1439,58.4,4.5,37.0,0.3635,0.3309,1.1899,1.1541,18.3,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,5,96,58.3,18.8,22.9,0.4524,0.4174,1.2408,0.8186,18.9,todos
+Retest<=10min + MFE_pre_0.3-0.5% + Break<=30min,3,267,58.1,28.1,13.9,0.4511,0.4198,1.2342,0.7822,15.2,todos
+Retest<=10min + MFE_pre_0.3-0.5% + Break<=30min + Sesgo_alineado,4,162,58.0,25.9,16.0,0.4633,0.4335,1.2741,0.805,15.5,todos
+OR_grande(top40%) + Break<=30min + Sesgo_alineado,3,1342,56.3,15.5,28.2,0.4034,0.3537,1.2241,0.8226,16.0,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5%,2,2669,56.1,6.0,38.0,0.4257,0.4131,1.1505,0.9341,19.9,todos
+OR_grande(top40%) + Break<=30min,2,1759,55.9,18.5,25.5,0.4082,0.3576,1.236,0.7952,15.3,todos
+OR_grande(top40%),1,8005,55.7,5.8,38.5,0.384,0.3457,1.2074,0.9718,17.1,todos
+VolRatio_p40-p60 + Break<=30min,2,884,55.1,18.8,26.1,0.3649,0.3202,1.203,0.5567,17.8,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Sesgo_alineado,4,480,54.8,4.6,40.6,0.4278,0.4099,1.1691,0.9184,20.6,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + Break<=30min,3,581,54.7,18.4,26.9,0.4487,0.4322,1.1842,0.8046,18.8,todos
+VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,3,627,54.5,15.5,30.0,0.3604,0.3126,1.2032,0.5912,18.0,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + Break<=30min + Sesgo_alineado,4,447,54.1,15.4,30.4,0.448,0.4319,1.1894,0.7999,19.5,todos
+OR_grande(top40%) + Sesgo_alineado,2,5595,54.0,5.1,40.8,0.3687,0.3331,1.1935,1.0137,17.3,todos
+OR_grande(top40%) + MFE_pre_0.3-0.5% + Sesgo_alineado,3,1856,51.6,5.2,43.2,0.4283,0.4205,1.1545,0.9124,21.3,todos
+VolRatio_p40-p60,1,4006,50.5,6.4,43.1,0.3506,0.3184,1.1785,0.7247,19.4,todos
+MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min,3,293,50.5,21.5,28.0,0.4359,0.4165,1.183,0.5661,21.0,todos
+VolRatio_p40-p60 + Sesgo_alineado,2,2710,50.1,5.1,44.7,0.3467,0.3109,1.1769,0.7908,20.0,todos
+MFE_pre_0.3-0.5% + VolRatio_p40-p60,2,1288,48.3,6.7,45.0,0.4197,0.4061,1.154,0.6259,21.5,todos
+Break<=30min + Sesgo_alineado,2,3134,48.2,19.1,32.7,0.3621,0.3176,1.1858,0.5337,18.1,todos
+Break<=30min,1,4479,47.2,21.9,30.9,0.3632,0.32,1.1913,0.5144,17.7,todos
+MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Break<=30min + Sesgo_alineado,4,206,47.1,18.0,35.0,0.4375,0.417,1.1978,0.5785,21.7,todos
+Sesgo_alineado,1,12666,44.9,6.6,48.5,0.3448,0.3072,1.1736,0.6531,19.7,todos
+MFE_pre_0.3-0.5% + VolRatio_p40-p60 + Sesgo_alineado,3,866,44.8,5.3,49.9,0.4196,0.4074,1.1548,0.6589,22.0,todos
+MFE_pre_0.3-0.5% + Break<=30min,2,1452,41.8,22.6,35.6,0.43,0.418,1.1572,0.5028,21.7,todos
+MFE_pre_0.3-0.5% + Break<=30min + Sesgo_alineado,3,1031,41.4,19.9,38.7,0.4314,0.4198,1.1637,0.5117,22.3,todos
+MFE_pre_0.3-0.5%,1,6489,40.8,7.9,51.3,0.4198,0.4075,1.1469,0.6183,21.6,todos
+MFE_pre_0.3-0.5% + Sesgo_alineado,2,4005,39.1,6.9,54.0,0.4209,0.4099,1.1475,0.6009,23.1,todos
