@@ -1,0 +1,43 @@
+categoria,descripcion,n,n_cont,pct_cont,ic_lower,ic_upper,ic_width
+Base_OR_5min,Tasa base de continuación OR=5 min,1096,523,47.72,44.78,50.68,5.9
+Base_OR_10min,Tasa base de continuación OR=10 min,1037,496,47.83,44.8,50.87,6.07
+Base_OR_15min,Tasa base de continuación OR=15 min,1045,482,46.12,43.12,49.16,6.03
+Base_OR_20min,Tasa base de continuación OR=20 min,1019,473,46.42,43.38,49.49,6.11
+Base_OR_25min,Tasa base de continuación OR=25 min,1000,472,47.2,44.12,50.3,6.18
+Base_OR_30min,Tasa base de continuación OR=30 min,966,463,47.93,44.79,51.08,6.29
+Base_OR_35min,Tasa base de continuación OR=35 min,937,437,46.64,43.46,49.84,6.38
+Base_OR_40min,Tasa base de continuación OR=40 min,909,434,47.74,44.51,50.99,6.48
+Base_OR_45min,Tasa base de continuación OR=45 min,855,407,47.6,44.27,50.95,6.68
+Base_OR_50min,Tasa base de continuación OR=50 min,849,392,46.17,42.84,49.54,6.69
+Base_OR_55min,Tasa base de continuación OR=55 min,836,377,45.1,41.75,48.48,6.73
+Base_OR_60min,Tasa base de continuación OR=60 min,810,358,44.2,40.81,47.64,6.82
+Base_OR_65min,Tasa base de continuación OR=65 min,777,333,42.86,39.42,46.36,6.94
+Base_OR_70min,Tasa base de continuación OR=70 min,776,336,43.3,39.85,46.81,6.96
+Base_OR_75min,Tasa base de continuación OR=75 min,780,334,42.82,39.39,46.32,6.93
+Base_OR_80min,Tasa base de continuación OR=80 min,758,319,42.08,38.62,45.63,7.01
+Base_OR_85min,Tasa base de continuación OR=85 min,750,314,41.87,38.39,45.43,7.04
+Base_OR_90min,Tasa base de continuación OR=90 min,743,310,41.72,38.23,45.3,7.07
+Base_OR_95min,Tasa base de continuación OR=95 min,714,298,41.74,38.17,45.39,7.22
+Base_OR_100min,Tasa base de continuación OR=100 min,693,287,41.41,37.8,45.12,7.32
+Base_OR_105min,Tasa base de continuación OR=105 min,684,281,41.08,37.45,44.81,7.35
+Base_OR_110min,Tasa base de continuación OR=110 min,668,282,42.22,38.53,46.0,7.47
+Base_OR_115min,Tasa base de continuación OR=115 min,661,281,42.51,38.8,46.31,7.52
+Base_OR_120min,Tasa base de continuación OR=120 min,638,269,42.16,38.39,46.03,7.64
+Combo_C1+C2+C4 (N~589),Combinación: C1+C2+C4 (N~589),589,431,73.17,69.46,76.59,7.14
+Combo_C2+C4 (N~810),Combinación: C2+C4 (N~810),810,583,71.98,68.78,74.96,6.17
+Combo_C1+C2 (N~2256),Combinación: C1+C2 (N~2256),2256,1563,69.28,67.35,71.15,3.8
+Combo_C1+C2+C4+C6,Combinación: C1+C2+C4+C6,391,286,73.15,68.54,77.3,8.75
+Combo_C2+C4+C6,Combinación: C2+C4+C6,507,366,72.19,68.13,75.91,7.78
+Combo_Solo C2,Combinación: Solo C2,3587,2360,65.79,64.22,67.33,3.1
+MinsRetest_0-10min,mins_to_retest = 0-10min (OR 15 min),213,147,69.01,62.51,74.84,12.33
+MinsRetest_10-20min,mins_to_retest = 10-20min (OR 15 min),226,122,53.98,47.47,60.36,12.89
+MinsRetest_20-30min,mins_to_retest = 20-30min (OR 15 min),136,64,47.06,38.87,55.41,16.55
+MinsRetest_30-45min,mins_to_retest = 30-45min (OR 15 min),143,56,39.16,31.54,47.34,15.8
+MinsRetest_45-60min,mins_to_retest = 45-60min (OR 15 min),100,35,35.0,26.36,44.75,18.38
+MinsRetest_>60min,mins_to_retest = >60min (OR 15 min),227,58,25.55,20.32,31.6,11.28
+MFEpre_0.20-0.30%,mfe_pre_retest = 0.20-0.30% (OR 15 min),560,306,54.64,50.5,58.72,8.22
+MFEpre_0.30-0.40%,mfe_pre_retest = 0.30-0.40% (OR 15 min),242,112,46.28,40.11,52.57,12.47
+MFEpre_0.40-0.50%,mfe_pre_retest = 0.40-0.50% (OR 15 min),103,35,33.98,25.56,43.56,18.0
+MFEpre_0.50-0.75%,mfe_pre_retest = 0.50-0.75% (OR 15 min),93,21,22.58,15.27,32.07,16.8
+MFEpre_0.75-1.00%,mfe_pre_retest = 0.75-1.00% (OR 15 min),31,7,22.58,11.4,39.81,28.42
+MFEpre_>1.00%,mfe_pre_retest = >1.00% (OR 15 min),16,1,6.25,1.11,28.33,27.22

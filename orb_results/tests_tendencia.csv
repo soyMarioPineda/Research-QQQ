@@ -1,0 +1,4 @@
+variable,hipotesis,n_grupos,z_statistic,p_value,significancia,direccion,interpretacion
+mins_to_retest,Tendencia decreciente: más tiempo → menos continuación,6,-9.708,0.0,***,Decreciente (z<0),Tendencia significativa
+mfe_pre_retest_pct,Tendencia decreciente: mayor MFE_pre → menos continuación,6,-7.697,0.0,***,Decreciente (z<0),Tendencia significativa
+or_size_pct (quintiles),Tendencia creciente: mayor OR → más continuación,5,7.109,0.0,***,Creciente (z>0),Tendencia significativa

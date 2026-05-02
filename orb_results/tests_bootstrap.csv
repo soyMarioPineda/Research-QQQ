@@ -1,0 +1,5 @@
+combinacion,n,pct_cont_obs,wilson_lower,wilson_upper,bootstrap_lower,bootstrap_upper,coinciden
+C1+C2+C4,589,73.17,69.46,76.59,69.61,76.74,True
+C2+C4,810,71.98,68.78,74.96,68.89,75.06,True
+C1+C2,2256,69.28,67.35,71.15,67.42,71.19,True
+Solo_C2,3587,65.79,64.22,67.33,64.23,67.35,True

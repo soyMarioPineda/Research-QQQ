@@ -1,0 +1,6 @@
+variable,n_grupos,chi2,dof,p_value,significancia,interpretacion
+mins_to_retest,6,170.671,10,0.0,***,Asociación significativa
+mfe_pre_retest_pct,6,67.015,10,0.0,***,Asociación significativa
+or_size_pct (quintiles),5,55.262,8,0.0,***,Asociación significativa
+vol_ratio (quintiles),5,26.851,8,0.00075,***,Asociación significativa
+dia_semana,5,4.629,8,0.796413,n.s.,Sin evidencia de asociación
