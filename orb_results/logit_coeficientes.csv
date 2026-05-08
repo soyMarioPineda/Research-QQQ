@@ -1,0 +1,17 @@
+modelo,variable,coef,se,z,p_valor,significancia,odds_ratio,OR_IC_95_low,OR_IC_95_high
+M1: Solo mins_to_retest,mins_to_retest,-0.6118,0.0721,-8.491,0.0,***,0.5424,0.4709,0.6246
+M2: mins_to_retest + breakout_minute (test crítico),mins_to_retest,-0.6081,0.0721,-8.435,0.0,***,0.5444,0.4726,0.627
+M2: mins_to_retest + breakout_minute (test crítico),breakout_minute,-0.077,0.0679,-1.134,0.256945,n.s.,0.9259,0.8106,1.0577
+M3: Modelo completo (5 variables),mins_to_retest,-0.3254,0.0791,-4.115,3.9e-05,***,0.7223,0.6186,0.8433
+M3: Modelo completo (5 variables),breakout_minute,-0.1083,0.0723,-1.499,0.133902,n.s.,0.8973,0.7788,1.0339
+M3: Modelo completo (5 variables),or_size_pct,0.4499,0.0826,5.45,0.0,***,1.5682,1.3339,1.8436
+M3: Modelo completo (5 variables),vol_ratio,0.1196,0.0691,1.73,0.083632,n.s.,1.127,0.9842,1.2906
+M3: Modelo completo (5 variables),mfe_pre_retest_pct,-0.6224,0.0986,-6.311,0.0,***,0.5367,0.4423,0.6511
+M4: Modelo completo + no linealidades,mins_to_retest,-0.4482,0.1085,-4.13,3.6e-05,***,0.6388,0.5164,0.7902
+M4: Modelo completo + no linealidades,mins_to_retest²,0.1284,0.0718,1.789,0.073672,n.s.,1.1371,0.9878,1.3089
+M4: Modelo completo + no linealidades,breakout_minute,-0.1025,0.0736,-1.394,0.163389,n.s.,0.9026,0.7814,1.0425
+M4: Modelo completo + no linealidades,or_size_pct,0.4138,0.0844,4.905,1e-06,***,1.5125,1.282,1.7845
+M4: Modelo completo + no linealidades,vol_ratio,0.126,0.0722,1.745,0.081028,n.s.,1.1343,0.9846,1.3067
+M4: Modelo completo + no linealidades,vol_ratio²,-0.0153,0.0262,-0.583,0.559709,n.s.,0.9848,0.9355,1.0368
+M4: Modelo completo + no linealidades,mfe_pre_retest_pct,-0.68,0.1218,-5.583,0.0,***,0.5066,0.399,0.6432
+M4: Modelo completo + no linealidades,mfe_pre²,0.0411,0.0312,1.319,0.187317,n.s.,1.042,0.9802,1.1076

@@ -1,0 +1,7 @@
+condicion,descripcion,tasa_activacion_pct,n_activa,n_total
+C1,OR_grande (top 40%),40.0,418,1045
+C2,Retest ≤10 min,22.8,238,1045
+C3,MFE_pre 0.30-0.50%,33.0,345,1045
+C4,Vol_ratio p40-p60,20.0,209,1045
+C5,Breakout ≤30 min,85.6,894,1045
+C6,Sesgo alineado,62.0,648,1045

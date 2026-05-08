@@ -1,0 +1,4 @@
+ventana,n_total,n_continuacion,n_falla,n_neutro,pct_continuacion,pct_falla,pct_neutro,ratio_cont_falla
+60 min (original),1045,482,195,368,46.1,18.7,35.2,2.47
+120 min (extendida),1045,556,272,217,53.2,26.0,20.8,2.04
+Hasta cierre de sesión,1045,635,341,69,60.8,32.6,6.6,1.86

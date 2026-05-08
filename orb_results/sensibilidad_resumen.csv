@@ -1,0 +1,6 @@
+metrica,valor_base,min_variacion,max_variacion,max_desviacion,robustez
+Brecha rápido vs tardío (métrica principal),41.82,36.73,48.31,6.49,~ PARCIAL (3-8pp)
+Continuación con retest ≤10 min,68.07,63.38,80.13,12.06,REF — varía por composición de muestra
+Continuación con retest >60 min,26.24,19.76,36.07,9.83,REF — varía por composición de muestra
+Continuación con C1+C2+C4,69.05,66.67,83.48,14.43,REF — varía por composición de muestra
+Tasa base [REFERENCIA — varía por composición],46.12,38.53,68.85,22.73,N/A — varía por composición de muestra
